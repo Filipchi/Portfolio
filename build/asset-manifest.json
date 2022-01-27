@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/static/js/main.34ef507b.chunk.js",
+    "main.js.map": "/static/js/main.34ef507b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f2272146.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f2272146.js.map",
+    "static/js/2.dfda7300.chunk.js": "/static/js/2.dfda7300.chunk.js",
+    "static/js/2.dfda7300.chunk.js.map": "/static/js/2.dfda7300.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.dfda7300.chunk.js.LICENSE.txt": "/static/js/2.dfda7300.chunk.js.LICENSE.txt",
+    "static/media/adivina-el-numero.1b1c3a79.png": "/static/media/adivina-el-numero.1b1c3a79.png",
+    "static/media/avatar.7d2c7204.jpeg": "/static/media/avatar.7d2c7204.jpeg",
+    "static/media/candy-machine.914b6c49.png": "/static/media/candy-machine.914b6c49.png",
+    "static/media/mr-empanada.1e2b955a.png": "/static/media/mr-empanada.1e2b955a.png",
+    "static/media/oldanime.012f5b68.png": "/static/media/oldanime.012f5b68.png",
+    "static/media/resume.060e6bf6.jpeg": "/static/media/resume.060e6bf6.jpeg",
+    "static/media/resume.74167444.pdf": "/static/media/resume.74167444.pdf",
+    "static/media/todo.95b711c2.png": "/static/media/todo.95b711c2.png",
+    "static/media/under-construction.d1cc4be1.png": "/static/media/under-construction.d1cc4be1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2272146.js",
+    "static/js/2.dfda7300.chunk.js",
+    "static/js/main.34ef507b.chunk.js"
+  ]
+}
